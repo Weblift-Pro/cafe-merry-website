@@ -1,0 +1,14 @@
+CAFÉ MERRY – WEBSITE (Weblift)
+==============================
+Hochladen: Alle Dateien flach ins Hauptverzeichnis des GitHub-Repos (GitHub Pages: main / root).
+
+Inhalte pflegen: nur data.js bearbeiten (Öffnungszeiten, Speisekarte, Preise, Getränke, Neuigkeiten, E-Mail).
+
+VOR DEM LIVEGANG MIT DEM CAFÉ KLÄREN
+- Öffnungszeiten (aktuell: täglich 9–21 Uhr laut Schwäbische Zeitung 2026)
+- Vegane Angebote bestätigen (vegane Frühstücksplatte, Joghurt-Müsli-Bowl, Salat mit veganem Käse)
+- Preise, E-Mail-Adresse, Getränkekarte
+- WhatsApp-Nummer für Lieferung (0176 43311705) vs. Telefon (0176 45804001)
+- Einverständnis für Zitate von Merry und Familien-Story
+- Echte Fotos einsetzen (aktuell Platzhalter von Unsplash, Café-Innenräume als "Beispielfoto" markiert)
+- Impressum & Datenschutz vervollständigen, Schriften lokal hosten, Domain in sitemap.xml/robots.txt/Canonical anpassen

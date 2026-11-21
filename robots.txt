@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.cafe-merry-biberach.de/sitemap.xml
